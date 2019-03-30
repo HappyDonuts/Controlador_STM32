@@ -1,0 +1,10 @@
+main.c:153:6:SystemClock_Config	72	static
+main.c:442:6:test	8	static
+main.c:104:5:main	72	static
+main.c:475:6:cuenta_pulsos	16	static
+main.c:521:6:mueve_motor	0	static
+main.c:580:6:tx_UART_int	40	dynamic
+main.c:558:6:tx_UART_float	24	static
+main.c:547:6:tx_pulsos	16	static
+main.c:451:6:error	24	static
+main.c:621:6:Error_Handler	0	static
